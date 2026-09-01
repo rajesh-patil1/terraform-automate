@@ -1,3 +1,3 @@
 aws_region  = "ap-south-1"
-bucket_name = "my-jenkins-terraform-bucket-12345"
+bucket_name = "today-bucket01092026"
 environment = "dev"
